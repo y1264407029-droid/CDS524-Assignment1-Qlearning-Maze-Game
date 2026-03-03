@@ -1,7 +1,7 @@
 # CDS524-Assignment1-Qlearning-Maze-Game
 Maze Treasure Hunt Game Based on Q-Learning
 Youtube: 
-Github: 
+Github: https://github.com/y1264407029-droid/CDS524-Assignment1-Qlearning-Maze-Game
  1 Introduction 
 This project is the submission for CDS524 Assignment 1, which implements a 5x5 grid maze treasure hunt game based on the Q-Learning reinforcement learning algorithm. The core objective is to train an AI agent to navigate the maze, avoid 3 fixed traps, and find the optimal path from the top-left start point to the bottom-right treasure goal through continuous environment interaction. The project uses Python as the core language, with NumPy for Q-Table management, Matplotlib for performance visualization, and Python’s built-in Tkinter for the interactive GUI. All functional modules have been fully tested and verified via actual operation.
  2 Game Design
